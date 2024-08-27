@@ -1,7 +1,3 @@
-TODO
-
-- [ ] input needed definitions prior to intrducing them (in T-SNE section)
-
 # Dimensionality Reduction
 
 Dimensionality reduction serves as the means to take a dataset, $XY$ and reduce it's dimensionality down to a point where it is more manageable and computationally efficient.
