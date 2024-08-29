@@ -1,3 +1,8 @@
+<div align = 'center'>
+<img src = 'images/dims.png'></img>
+<em> peep occam </em>
+</div>
+
 # Dimensionality Reduction
 
 Dimensionality reduction serves as the means to take a dataset, $XY$ and reduce it's dimensionality down to a point where it is more manageable and computationally efficient.
